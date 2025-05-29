@@ -13,6 +13,7 @@ public class Fibonacci {
             second = next;
         }
 
-        System.out.println(); // Move to next line after printing series
+        System.out.println("\n"); 
+        System.out.println("\n"); 
     }
 }
